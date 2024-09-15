@@ -1,4 +1,4 @@
-# xortgpush
+# xhortpush
 Shorten your git add, commit and push processes to github.
 
 ## User Instructions
