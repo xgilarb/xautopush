@@ -24,4 +24,4 @@ This script automates the process of adding files, committing changes, and pushi
 to GitHub using the provided credentials. Ensure to replace placeholders with your<br>
 actual GitHub credentials before sharing or running the script.
 
-> I suggest you create an `alias` in ur `.bashrc` or `.zshrc` (depending on what shell you use)<br> to make it easier to use.
+> I suggest you create an `alias` in your `.bashrc` or `.zshrc` (depending on what shell you use)<br> to make it easier to use.
