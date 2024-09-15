@@ -1,5 +1,5 @@
 # xhortpush
-Shorten your git add, commit and push processes to github.
+Shorten your git add, commit and push processes to github in just one command.
 
 ## User Instructions
 #### Configuration:
