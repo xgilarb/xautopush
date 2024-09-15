@@ -9,14 +9,14 @@ Replace `<YOUR_PERSONAL_ACCESS_TOKEN>` with your GitHub personal access token.<b
 
 #### Make the script executable:
 
-run this command on your terminal 
+After that, run this command on your terminal to gain execution access.
 ```bash
 chmod +x gitpush.sh
 ```
 #### How to use:
 
- run *inside* of your *local Repo* if you want to make `git add`, `commit`, and `push` it<br>
- into your GitHub Repo
+To use this script, run *inside* of your *local Repo* if you want to make<br>
+ `git add`, `commit`, and `push` it into your GitHub Repo,
 ```bash
 ./gitpush.sh "Your commit message"
 ```
