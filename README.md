@@ -22,7 +22,7 @@ To use this script, run *inside* of your *local Repo* if you want to make<br>
 ```
 This script automates the process of adding files, committing changes, and pushing<br>
 to GitHub using the provided credentials. Ensure to replace placeholders with your<br>
-actual GitHub credentials before sharing or running the script.
+actual GitHub credentials before running the script.
 
 > I suggest you create an `alias` in your `.bashrc` or `.zshrc` (depending on what shell you use)<br>
 to make it easier to use in a different location where your local repo is stored.
